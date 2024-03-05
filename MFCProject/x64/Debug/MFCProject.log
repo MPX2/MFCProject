@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  CChangeDataFormat.cpp
+  CCSVFile.cpp
+C:\Users\Gyuhyeon\Desktop\바탕화면 24.01.25\MFCProject\MFCProject\MFCProject\CCSVFile.cpp(25,15): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CString'입니다.
+C:\Users\Gyuhyeon\Desktop\바탕화면 24.01.25\MFCProject\MFCProject\MFCProject\CCSVFile.cpp(25,15): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'CString'입니다.
+C:\Users\Gyuhyeon\Desktop\바탕화면 24.01.25\MFCProject\MFCProject\MFCProject\CCSVFile.cpp(25,15): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'CString'입니다.
+C:\Users\Gyuhyeon\Desktop\바탕화면 24.01.25\MFCProject\MFCProject\MFCProject\CCSVFile.cpp(25,15): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'CString'입니다.
+C:\Users\Gyuhyeon\Desktop\바탕화면 24.01.25\MFCProject\MFCProject\MFCProject\CCSVFile.cpp(25,15): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'CString'입니다.
+C:\Users\Gyuhyeon\Desktop\바탕화면 24.01.25\MFCProject\MFCProject\MFCProject\CCSVFile.cpp(25,15): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 6의 형식이 'CString'입니다.
+  CDialogModify.cpp
+  CTabMonDlg.cpp
+  MFCProject.cpp
+  MFCProjectDlg.cpp
+  코드를 생성하고 있습니다...
+  MFCProject.vcxproj -> C:\Users\Gyuhyeon\Desktop\바탕화면 24.01.25\MFCProject\MFCProject\x64\Debug\MFCProject.exe
